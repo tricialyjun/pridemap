@@ -6,7 +6,9 @@ function map = prideflag(m)
 %   colormap. If no figure exists, MATLAB uses the length of the
 %   default colormap.
 %
-%   TLYJ 20201113
+%   ----------
+%   Tricia LYJ, 20201117
+%   @tricialyjun
 
 
 if nargin < 1
