@@ -1,5 +1,5 @@
 # pridemap
-A series of LGBTQ+ pride flag-inspired MATLAB colormaps created in celebration of LGBTQSTEMDay (18 Nov 2020).
+A series of LGBTQ+ pride flag-inspired colormaps created in celebration of LGBTQSTEM Day 2020.
 
 - Pride flags: https://en.wikipedia.org/wiki/LGBT_symbols#LGBT_pride_flags
 - LGBTQSTEMDay: http://prideinstem.org/lgbtstemday/
